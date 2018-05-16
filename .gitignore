@@ -12,7 +12,7 @@
 *.out
 
 # Bazel
-bazel-*/
+bazel-*
 
 # Other
 .DS_Store
